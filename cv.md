@@ -1,9 +1,9 @@
 # Ihar Hauryliuk
-
+----
 ## Contact Info
-  City: Brest
-  Phone: +375 12 345-67-89
-  Email: ihar.hauryliuk@gmail.com
+  __City:__ Brest  
+  __Phone:__ +375 12 345-67-89  
+  __Email:__ [ihar.hauryliuk@gmail.com](ihar.hauryliuk@gmail.com)
 
 ## Objective
   _Obtain employment_ as a junior front-end developer, _gaining hands-on experience_ and _further improvement_ in the field of web development.
@@ -22,5 +22,5 @@
   1. __2012 — 2014__ SkillFactory online learning school: client support specialist
 
 ## Education
-  1. __1989__ Railway College: mechanical technician
+  1. __1999__ Railway College: mechanical technician
   2. __2012__ Cisco Networking Academy of Borderless Possibilities: CCNA Routing and Switching course
