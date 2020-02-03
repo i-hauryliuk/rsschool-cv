@@ -1,26 +1,26 @@
-Ihar Hauryliuk
+# Ihar Hauryliuk
 
-Contact Info
+## Contact Info
   City: Brest
   Phone: +375 12 345-67-89
   Email: ihar.hauryliuk@gmail.com
 
-Objective
-  Obtain employment as a junior front-end developer, gaining hands-on experience and further improvement in the field of web development.
+## Objective
+  _Obtain employment_ as a junior front-end developer, _gaining hands-on experience_ and _further improvement_ in the field of web development.
 
-Skills
-  HTML — Intermediate (semantics, validity)
-  CSS — Intermediate (cascade, priority, specificity)
-  Photoshop — Intermediate (work with layout, graphics optimization)
-  JavaScript — Basic (conditions, loops, functions)
-  Git — Basic (commit, branch, push, pull)
-  Linux — Intermediate (initial setup, cli, package management)
-  Network technologies — Intermediate (TCP/IP, routing, switching, base security, protocols, services)
-  English — A1 (Beginner)
+## Skills
+  * __HTML__ — Intermediate (semantics, validity)
+  * __CSS__ — Intermediate (cascade, priority, specificity)
+  * __Photoshop__ — Intermediate (work with layout, graphics optimization)
+  * __JavaScript__ — Basic (conditions, loops, functions)
+  * __Git__ — Basic (commit, branch, push, pull)
+  * __Linux__ — Intermediate (initial setup, cli, package management)
+  * __Network technologies__ — Intermediate (TCP/IP, routing, switching, base security, protocols, services)
+  * __English__ — A1 (Beginner)
 
-Work experience
-  2012 — 2014 SkillFactory online learning school: client support specialist
+## Work experience
+  1. __2012 — 2014__ SkillFactory online learning school: client support specialist
 
-Education
-    1989: Railway College (mechanical technician)
-    2012: Cisco Networking Academy of Borderless Possibilities (CCNA Routing and Switching course)
+## Education
+  1. __1989__ Railway College: mechanical technician
+  2. __2012__ Cisco Networking Academy of Borderless Possibilities: CCNA Routing and Switching course
